@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdoullah BALDE
 #### Vue js and Laravel developer
-![Vue js and Laravel developer](https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/artificial-intelligence-gb0f066b66_1280.jpg)
+![Vue js and Laravel developer](https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/artificial-intelligence-g9823ed4c8_1280.jpg)
 
 Passionate about technology and digital, I help companies to highlight their internet profiles by creating
 websites. For more than a year, I have been developing websites with HTML, CSS, BOOTSTRAP,
