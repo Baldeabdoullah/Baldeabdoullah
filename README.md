@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abdoullah BALDE
 #### Vue js and Laravel developer
-![Vue js and Laravel developer](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?t=st=1677618433~exp=1677619033~hmac=48fd513da32449e235287a087ed08ed51650dc55fd288634face2a2f600e1cdc)
+![Vue js and Laravel developer]([https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?t=st=1677618433~exp=1677619033~hmac=48fd513da32449e235287a087ed08ed51650dc55fd288634face2a2f600e1cdc](https://img.freepik.com/free-vector/development-operations-banner-devops-concept_107791-2220.jpg?w=900&t=st=1677620593~exp=1677621193~hmac=e7cd1bcb64b0befb39c065cf4089cea81631d3a94e98258c74ee87286907cd3b))
 
 Passionate about technology and digital, I help companies to highlight their internet profiles by creating
 websites. For more than a year, I have been developing websites with HTML, CSS, BOOTSTRAP,
