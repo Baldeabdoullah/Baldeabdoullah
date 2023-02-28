@@ -8,7 +8,7 @@ JAVASCRIPT, PHP and Vue JS. I have to my credit eleven websites made.
 
 ## Skills and Experience
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" />
           
 
 Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/ 
