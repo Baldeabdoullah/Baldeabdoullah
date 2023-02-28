@@ -6,6 +6,8 @@ Passionate about technology and digital, I help companies to highlight their int
 websites. For more than a year, I have been developing websites with HTML, CSS, BOOTSTRAP,
 JAVASCRIPT, PHP and Vue JS. I have to my credit eleven websites made.
 
+## Skills and Experience
+
 Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/ 
 
  
