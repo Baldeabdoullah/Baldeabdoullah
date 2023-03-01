@@ -19,6 +19,12 @@ Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Baldeabdoullah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdoullah-balde-1ab8b2234/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdoullahbalde.com/)  
 
+## Other
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
+          
 
 ## Examples of Work
 
