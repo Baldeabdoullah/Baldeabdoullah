@@ -33,7 +33,7 @@ Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/
 
 ## Examples of Work
 
-<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="200" />
+<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="300" />
 
 
 
