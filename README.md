@@ -8,7 +8,7 @@ JAVASCRIPT, PHP and Vue JS. I have to my credit eleven websites made.
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldeabdoullah)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldeabdoullah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills and Experience
