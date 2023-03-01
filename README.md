@@ -33,13 +33,13 @@ Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/
 
 ## Examples of Work
 
-<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette4.png"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/restaurant1.png" width="300" />
+<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette4.png"  width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/restaurant1.png" width="250" />
 
 
-<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop3.PNG" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop5.PNG"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop6.PNG" width="300" />
+<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop3.PNG" width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop5.PNG"  width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop6.PNG" width="250" />
 
 
-<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify3.png" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify4.png"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify5.png" width="300" />
+<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify3.png" width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify4.png"  width="250" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/sportify5.png" width="250" />
 
 
 
