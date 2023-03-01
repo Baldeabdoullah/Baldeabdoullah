@@ -6,6 +6,11 @@ Passionate about technology and digital, I help companies to highlight their int
 websites. For more than a year, I have been developing websites with HTML, CSS, BOOTSTRAP,
 JAVASCRIPT, PHP and Vue JS. I have to my credit eleven websites made.
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baldeabdoullah)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Skills and Experience
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="70" /><img 
