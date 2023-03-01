@@ -36,7 +36,7 @@ Skills: VUE JS / LARAVEL / PHP/ JS / HTML / CSS/ BOOTSTRAP/ TAILWIND CSS/ MYSQL/
 <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette4.png"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/restaurant1.png" width="300" />
 
 
-<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette.png" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette4.png"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/restaurant1.png" width="300" />
+<img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/digishop3.PNG" width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/baguette4.png"  width="300" />  <img src="https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/restaurant1.png" width="300" />
 
 
 
