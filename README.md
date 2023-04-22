@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Abdoullah BALDE
-####  Laravel and vue js developer
+####  PHP developer
 ![Vue js and Laravel developer](https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/artificial-intelligence-g9823ed4c8_1280.jpg)
 
 Passionate about technology and digital, I help companies to highlight their internet profiles by creating
