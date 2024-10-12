@@ -3,7 +3,7 @@
 ![Vue js and Laravel developer](https://github.com/Baldeabdoullah/Baldeabdoullah/blob/main/artificial-intelligence-g9823ed4c8_1280.jpg)
 
 Passionate about technology and digital, I help companies to highlight their internet profiles by creating
-websites. For more than a year, I have been developing websites with HTML, CSS, BOOTSTRAP,
+websites. For more than 3 year, I have been developing websites with HTML, CSS, BOOTSTRAP,
 JAVASCRIPT. I have to my credit eleven websites made.
 
 ## Stats
